@@ -16,6 +16,8 @@ This project focuses on detecting and measuring angles in order to analyze spina
 
 The software captures video input, detects human poses using the `mediapipe` library, and then computes and visualizes spinal angles. The computed angles, along with the corresponding timestamps, are saved in a CSV file for further analysis.
 
+![Demo Image](tes1.gif)
+
 ## Installation & Usage
 
 
