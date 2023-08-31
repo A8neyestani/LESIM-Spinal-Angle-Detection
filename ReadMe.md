@@ -26,11 +26,6 @@ The software captures video input, detects human poses using the `mediapipe` lib
 git clone https://github.com/a8neyestani/LESIM-Spinal-Angle-Detection.git
 cd LESIM-Spinal-Angle-Detection
 ```
-# (Optional) Set up and activate a virtual environment
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
 # Run the main script
 ```bash
 python main.py
